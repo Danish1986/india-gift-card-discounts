@@ -3,7 +3,7 @@
 Today's discounts on e-gift cards and gift vouchers for **475 Indian brands**: Domino's, PVR, Zomato, Myntra, Amazon, Flipkart, Swiggy, Nykaa and more. The data is refreshed every day from the live prices on [Unyfy](https://unyfy.co.in/vouchers).
 
 - **Data:** [`data/gift_card_discounts.csv`](data/gift_card_discounts.csv) and [`data/gift_card_discounts.json`](data/gift_card_discounts.json)
-- **Last price check:** 25 Nov 2026
+- **Last price check:** 26 Nov 2026
 - **Browse and buy:** https://unyfy.co.in/vouchers
 
 ## Columns
